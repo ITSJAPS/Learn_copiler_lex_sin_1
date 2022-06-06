@@ -78,7 +78,6 @@ mientras { return token(yytext(), "MIENTRAS", yyline, yycolumn); }
 
 /* Funciones */
 \@{Identificador} { return token(yytext(), "FUNCION_USUA", yyline, yycolumn); }
-colorear { return token(yytext(), "COLOREAR", yyline, yycolumn); }
 ver { return token(yytext(), "VER", yyline, yycolumn); }
 
 /* Etiquetas */
