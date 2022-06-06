@@ -1,0 +1,10 @@
+color >rojo-->#hchufi|
+@primero<(4)><{
+	ver<()>|
+	colorear<()>|
+	mientras<(colorear<()>)><{
+		@derecha<()>|
+	}>
+	@izquierda<()>|
+}>
+numero>numeroImg1 -->89|
